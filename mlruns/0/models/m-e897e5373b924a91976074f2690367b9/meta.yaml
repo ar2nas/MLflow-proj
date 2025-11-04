@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/siama/Desktop/cicd/end-end/mlruns/0/models/m-e897e5373b924a91976074f2690367b9/artifacts
+creation_timestamp: 1762298944952
+experiment_id: '0'
+last_updated_timestamp: 1762298960536
+model_id: m-e897e5373b924a91976074f2690367b9
+model_type: null
+name: elasticnet
+source_run_id: 16b4e892f40d4bc5ad2aa058ba9e4a1e
+status: 2
+status_message: null

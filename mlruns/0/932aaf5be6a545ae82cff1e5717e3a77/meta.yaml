@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/siama/Desktop/cicd/end-end/mlruns/0/932aaf5be6a545ae82cff1e5717e3a77/artifacts
+end_time: 1762298822110
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 932aaf5be6a545ae82cff1e5717e3a77
+run_name: kindly-moose-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762298822033
+status: 4
+tags: []
+user_id: siama

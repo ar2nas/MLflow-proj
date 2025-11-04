@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/siama/Desktop/cicd/end-end/mlruns/0/e9d6570595264832a68c7a718443e4f8/artifacts
+end_time: 1762299013543
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e9d6570595264832a68c7a718443e4f8
+run_name: defiant-midge-528
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762299013319
+status: 3
+tags: []
+user_id: siama

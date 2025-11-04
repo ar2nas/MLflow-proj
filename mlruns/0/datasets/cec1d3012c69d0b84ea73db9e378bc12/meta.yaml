@@ -1,0 +1,11 @@
+digest: 8f9eb48c
+name: dataset
+profile: '{"num_rows": 150, "num_elements": 750}'
+schema: '{"mlflow_colspec": [{"type": "double", "name": "sepal length (cm)", "required":
+  true}, {"type": "double", "name": "sepal width (cm)", "required": true}, {"type":
+  "double", "name": "petal length (cm)", "required": true}, {"type": "double", "name":
+  "petal width (cm)", "required": true}, {"type": "long", "name": "target", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "siama", "mlflow.source.name": "c:\\Users\\siama\\Desktop\\cicd\\end-end\\venv\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/siama/Desktop/cicd/end-end/mlruns/0/16b4e892f40d4bc5ad2aa058ba9e4a1e/artifacts
+end_time: 1762298960729
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 16b4e892f40d4bc5ad2aa058ba9e4a1e
+run_name: judicious-stoat-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762298944854
+status: 3
+tags: []
+user_id: siama

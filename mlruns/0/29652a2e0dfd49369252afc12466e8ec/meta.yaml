@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/siama/Desktop/cicd/end-end/mlruns/0/29652a2e0dfd49369252afc12466e8ec/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 29652a2e0dfd49369252afc12466e8ec
+run_name: burly-mole-434
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762299412112
+status: 1
+tags: []
+user_id: siama

@@ -1,5 +1,5 @@
-MLFLOW_TRACKING_URI=https://dagshub.com/entbappy/MLflow-Basic-Demo.mlflow
-MLFLOW_TRACKING_USERNAME=entbappy
+MLFLOW_TRACKING_URI=https://dagshub.com/ar2nas/MLflow-Basic-Demo.mlflow
+MLFLOW_TRACKING_USERNAME=ar2nas
 MLFLOW_TRACKING_PASSWORD=6824692c47a369aa6f9eac5b10041d5c8edbcef0
 python script.py
 
